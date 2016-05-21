@@ -1,1 +1,3 @@
 # smart_contract
+
+патерны
